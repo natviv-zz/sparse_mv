@@ -1,0 +1,166 @@
+Opened Input Matrix File
+1770961 1770961
+NNZ 83663478
+NNZ 83663478
+ Values size 83663478
+ Row ptr size 83663478
+ Col ptr size 1770961
+ Counter 1770961
+Finished reading train file
+1770961
+Multiply in 0.420752 sec
+Result size 1770961
+Iteration 0 Norm 1330.77
+Iteration 1 Norm 139.131
+Iteration 2 Norm 498.734
+Iteration 3 Norm 589.102
+Iteration 4 Norm 614.91
+Iteration 5 Norm 626.248
+Iteration 6 Norm 632.43
+Iteration 7 Norm 636.093
+Iteration 8 Norm 638.358
+Iteration 9 Norm 639.814
+Iteration 10 Norm 640.798
+Iteration 11 Norm 641.509
+Iteration 12 Norm 642.066
+Iteration 13 Norm 642.541
+Iteration 14 Norm 642.976
+Iteration 15 Norm 643.397
+Iteration 16 Norm 643.819
+Iteration 17 Norm 644.251
+Iteration 18 Norm 644.699
+Iteration 19 Norm 645.166
+Iteration 20 Norm 645.654
+Iteration 21 Norm 646.164
+Iteration 22 Norm 646.695
+Iteration 23 Norm 647.247
+Iteration 24 Norm 647.819
+Iteration 25 Norm 648.411
+Iteration 26 Norm 649.02
+Iteration 27 Norm 649.645
+Iteration 28 Norm 650.284
+Iteration 29 Norm 650.935
+Iteration 30 Norm 651.596
+Iteration 31 Norm 652.262
+Iteration 32 Norm 652.933
+Iteration 33 Norm 653.606
+Iteration 34 Norm 654.277
+Iteration 35 Norm 654.943
+Iteration 36 Norm 655.603
+Iteration 37 Norm 656.254
+Iteration 38 Norm 656.892
+Iteration 39 Norm 657.517
+Iteration 40 Norm 658.125
+Iteration 41 Norm 658.716
+Iteration 42 Norm 659.287
+Iteration 43 Norm 659.838
+Iteration 44 Norm 660.366
+Iteration 45 Norm 660.873
+Iteration 46 Norm 661.356
+Iteration 47 Norm 661.816
+Iteration 48 Norm 662.252
+Iteration 49 Norm 662.665
+Iteration 50 Norm 663.055
+Wall time for Eigen vector centrality is20.2906
+Top Eigen value is 663.055
+Printing sorted nodes by index and rank 
+1 17633
+2 17595
+3 17601
+4 17615
+5 17609
+6 17778
+7 17704
+8 17594
+9 17584
+10 17614
+11 17646
+12 17830
+13 17581
+14 17630
+15 17759
+16 17576
+17 17617
+18 17696
+19 17657
+20 17702
+21 17618
+22 68821
+23 17605
+24 17580
+25 17645
+26 17592
+27 17608
+28 17661
+29 17795
+30 17571
+31 17590
+32 17679
+33 17626
+34 17658
+35 1515011
+36 17620
+37 17597
+38 17577
+39 17573
+40 17634
+41 17598
+42 1363531
+43 17659
+44 17643
+45 17688
+46 1418208
+47 904682
+48 17723
+49 1488542
+50 545288
+51 1220957
+52 1374950
+53 17705
+54 1516649
+55 17638
+56 17636
+57 17892
+58 17593
+59 17591
+60 17773
+61 17589
+62 17575
+63 17668
+64 1177529
+65 17738
+66 17677
+67 17561
+68 17794
+69 17764
+70 17676
+71 17765
+72 17816
+73 1418547
+74 17792
+75 17716
+76 17713
+77 17719
+78 17864
+79 17683
+80 17682
+81 1363910
+82 1161723
+83 17586
+84 17757
+85 1217995
+86 17901
+87 17739
+88 17604
+89 17587
+90 17832
+91 17791
+92 17767
+93 1467532
+94 68902
+95 18020
+96 1492396
+97 180034
+98 17822
+99 17730
+100 17817
